@@ -1,0 +1,7 @@
+{
+  "name": "cursoSpringBoot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
